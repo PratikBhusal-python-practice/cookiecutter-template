@@ -1,0 +1,8 @@
+{
+  "full_name": "Pratik Bhusal",
+  "project_name": "Interview Practice",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "A collection of interview practice questions.",
+  "version": "0.1.0",
+  "license": ["MIT License", "Apache 2.0 License", "Other"]
+}
